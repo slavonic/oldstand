@@ -911,6 +911,8 @@ table (glyph)
 		apDotaccent_base = point( 312m, 528m );
 		apTop_base = point( 306m, 508m );
 	};
+	g_uni02B9 = postscript( "uni0289" );
+	g_uni02BA = postscript( "uni028A" );
 	g_uni02BB = postscript( "uni02BB" );
 	g_apostrophe = postscript( "afii57929" );
 	g_afii64937 = postscript( "afii64937" );

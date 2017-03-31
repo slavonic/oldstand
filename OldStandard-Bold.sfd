@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300650174
-ModificationTime: 1362855553
+ModificationTime: 1490956253
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -1914,21 +1914,20 @@ LangName: 1030 "" "" "Fed"
 LangName: 1033 "" "" "" "" "" "" "" "" "" "Alexey Kryukov <alexios@thessalonica.org.ru>" "" "" "http://www.thessalonica.org.ru" "Copyright (c) 2006-2011 Alexey Kryukov (http://www.thessalonica.org.ru).+AAoA-All rights reserved.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
 LangName: 1049 "" "" "+BB8EPgQ7BEMENgQ4BEAEPQRLBDkA" 
 GaspTable: 3 10 2 24 1 65535 3 0
-OtfFeatName: 'ss01' 1033 "Localized Forms for Romanian" 
-OtfFeatName: 'ss02' 1033 "Insular Forms for Old English" 
-OtfFeatName: 'ss05' 1033 "Closed Greek Theta" 
-OtfFeatName: 'ss06' 1033 "Medial/Final Forms for Greek" 
-OtfFeatName: 'ss12' 1033 "Optional Serbian Variant Forms" 
-OtfFeatName: 'ss14' 1033 "Localized Forms for Old Slavonic" 
 OtfFeatName: 'ss15' 1033 "Old Cyrillic I and N" 
-Encoding: UnicodeBmp
-Compacted: 1
+OtfFeatName: 'ss14' 1033 "Localized Forms for Old Slavonic" 
+OtfFeatName: 'ss12' 1033 "Optional Serbian Variant Forms" 
+OtfFeatName: 'ss06' 1033 "Medial/Final Forms for Greek" 
+OtfFeatName: 'ss05' 1033 "Closed Greek Theta" 
+OtfFeatName: 'ss02' 1033 "Insular Forms for Old English" 
+OtfFeatName: 'ss01' 1033 "Localized Forms for Romanian" 
+Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL with PUA
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 384 16 12
+WinInfo: 672 16 10
 BeginPrivate: 7
 BlueValues 23 [-18 0 474 486 712 730]
 OtherBlues 31 [-294 -282 -238 -228 -168 -156]
@@ -1948,7 +1947,7 @@ Grid
  340 -46 l 25
 EndSplineSet
 AnchorClass2: "Dotaccent"  "'mark' Positioning for Dotaccent" "Enclosing"  "'mark' Positioning for Enclosing Figures" "Top"  "'mark' Positioning for Top Accents" "Bottom"  "'mark' Positioning for Bottom Accents" "GreekTop"  "'mark' Positioning for Greek Accents" "GreekTopSunken"  "'mark' Lower Positioning for Greek Accents" "GreekCap"  "'mark' Positioning for Greek Capital Accents" "TopMark"  "'mkmk' Standard Mark to Mark Positioning" "GreekTopMark"  "'mkmk' Greek Mark to Mark Positioning" "GreekTopMarkSunken"  "'mkmk' Greek Lower Mark to Mark Positioning" 
-BeginChars: 65657 1658
+BeginChars: 1114229 1660
 
 StartChar: space
 Encoding: 32 32 0
@@ -167182,7 +167181,7 @@ Ligature2: "'dlig' Discretionary Ligatures for German-1" f f l
 EndChar
 
 StartChar: u1D50A
-Encoding: 65536 120074 1536
+Encoding: 120074 120074 1536
 Width: 832
 Flags: W
 HStem: -18 40<367.48 553.458> 445 81<556 625.958> 594 72<560 610.65> 659 72<440 511.5>
@@ -167638,7 +167637,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1D510
-Encoding: 65537 120080 1537
+Encoding: 120080 120080 1537
 Width: 1092
 Flags: W
 HStem: -18 76<227.5 304.458 507.5 586.292> -18 48<896.981 973.913> 44 76<163.714 222 443.714 502> 430 28<986.604 1035.99> 682 48<177.664 302.939 504.351 576.216 786.308 856.826>
@@ -168201,7 +168200,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1D513
-Encoding: 65538 120083 1538
+Encoding: 120083 120083 1538
 Width: 844
 Flags: W
 HStem: -238 21G<388 420> -18 48<544.839 653.683> 92 76<263.362 361.111> 498 28<737.165 785.993> 682 48<173.664 298.89 511.135 599.838>
@@ -168735,7 +168734,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1D516
-Encoding: 65539 120086 1539
+Encoding: 120086 120086 1539
 Width: 806
 Flags: W
 HStem: -18 88<316.508 549.603> 308 84<319.115 447.065> 378 84<508.304 659.779> 484 21G<392 411> 495 24<325.646 403.193> 592 84<511.897 663.334> 654 76<282.659 452.472>
@@ -169041,7 +169040,7 @@ EndSplineSet
 EndChar
 
 StartChar: .notdef
-Encoding: 65540 -1 1540
+Encoding: 1114112 -1 1540
 Width: 500
 Flags: W
 TeX: 117 0
@@ -169140,7 +169139,7 @@ EndSplineSet
 EndChar
 
 StartChar: caroncommaaccent
-Encoding: 65541 -1 1541
+Encoding: 1114113 -1 1541
 Width: 164
 Flags: W
 HStem: 632 98<37.5449 103.764>
@@ -169228,7 +169227,7 @@ EndSplineSet
 EndChar
 
 StartChar: f_f_j
-Encoding: 65542 -1 1542
+Encoding: 1114114 -1 1542
 Width: 824
 GlyphClass: 3
 Flags: W
@@ -169683,7 +169682,7 @@ Ligature2: "'dlig' Discretionary Ligatures for German-1" f f j
 EndChar
 
 StartChar: f_j
-Encoding: 65543 -1 1543
+Encoding: 1114115 -1 1543
 Width: 560
 GlyphClass: 3
 Flags: W
@@ -169984,7 +169983,7 @@ Ligature2: "'dlig' Discretionary Ligatures for German-1" f j
 EndChar
 
 StartChar: acutecomb_uni0307
-Encoding: 65544 -1 1544
+Encoding: 1114116 -1 1544
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -170004,7 +170003,7 @@ Colour: ffff
 EndChar
 
 StartChar: tildecomb_acutecomb
-Encoding: 65545 -1 1545
+Encoding: 1114117 -1 1545
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -170024,7 +170023,7 @@ Colour: ffff
 EndChar
 
 StartChar: tildecomb_uni0308
-Encoding: 65546 -1 1546
+Encoding: 1114118 -1 1546
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -170044,7 +170043,7 @@ Colour: ffff
 EndChar
 
 StartChar: macroncmb_gravecomb
-Encoding: 65547 -1 1547
+Encoding: 1114119 -1 1547
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -170064,7 +170063,7 @@ Colour: ffff
 EndChar
 
 StartChar: macroncmb_acutecomb
-Encoding: 65548 -1 1548
+Encoding: 1114120 -1 1548
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -170084,7 +170083,7 @@ Colour: ffff
 EndChar
 
 StartChar: macroncmb_brevecmb
-Encoding: 65549 -1 1549
+Encoding: 1114121 -1 1549
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -170104,7 +170103,7 @@ Colour: ffff
 EndChar
 
 StartChar: macroncmb_uni0308
-Encoding: 65550 -1 1550
+Encoding: 1114122 -1 1550
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -170124,7 +170123,7 @@ Colour: ffff
 EndChar
 
 StartChar: brevecmb_gravecomb
-Encoding: 65551 -1 1551
+Encoding: 1114123 -1 1551
 Width: 0
 VWidth: 959
 GlyphClass: 4
@@ -170145,7 +170144,7 @@ Colour: ffff
 EndChar
 
 StartChar: brevecmb_acutecomb
-Encoding: 65552 -1 1552
+Encoding: 1114124 -1 1552
 Width: 0
 VWidth: 959
 GlyphClass: 4
@@ -170166,7 +170165,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0308_gravecomb
-Encoding: 65553 -1 1553
+Encoding: 1114125 -1 1553
 Width: 0
 VWidth: 0
 GlyphClass: 4
@@ -170188,7 +170187,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0308_acutecomb
-Encoding: 65554 -1 1554
+Encoding: 1114126 -1 1554
 Width: 0
 VWidth: 0
 GlyphClass: 4
@@ -170210,7 +170209,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni030A_acutecomb
-Encoding: 65555 -1 1555
+Encoding: 1114127 -1 1555
 Width: 0
 VWidth: 959
 GlyphClass: 4
@@ -170231,7 +170230,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni030C_uni0307
-Encoding: 65556 -1 1556
+Encoding: 1114128 -1 1556
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -170251,7 +170250,7 @@ Colour: ffff
 EndChar
 
 StartChar: afii10194_acutecomb
-Encoding: 65557 -1 1557
+Encoding: 1114129 -1 1557
 Width: 588
 Flags: W
 HStem: 0 24<142 195.805 312.195 398.946> 234 24<312 398.946> 450 24<131.007 193.101 314.899 388.993> 524 188
@@ -170272,7 +170271,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0486_gravecomb
-Encoding: 65558 -1 1558
+Encoding: 1114130 -1 1558
 Width: 0
 VWidth: 1039
 GlyphClass: 4
@@ -170376,7 +170375,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0486_acutecomb
-Encoding: 65559 -1 1559
+Encoding: 1114131 -1 1559
 Width: 0
 VWidth: 1039
 Flags: W
@@ -170479,7 +170478,7 @@ EndSplineSet
 EndChar
 
 StartChar: gravecomb.cap
-Encoding: 65560 -1 1560
+Encoding: 1114132 -1 1560
 Width: 0
 VWidth: 959
 GlyphClass: 4
@@ -170498,7 +170497,7 @@ Colour: ffff
 EndChar
 
 StartChar: acutecomb.cap
-Encoding: 65561 -1 1561
+Encoding: 1114133 -1 1561
 Width: 0
 VWidth: 959
 GlyphClass: 4
@@ -170517,7 +170516,7 @@ Colour: ffff
 EndChar
 
 StartChar: circumflexcmb.cap
-Encoding: 65562 -1 1562
+Encoding: 1114134 -1 1562
 Width: 0
 VWidth: 959
 GlyphClass: 4
@@ -170535,7 +170534,7 @@ Colour: ffff
 EndChar
 
 StartChar: tildecomb.cap
-Encoding: 65563 -1 1563
+Encoding: 1114135 -1 1563
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -170553,7 +170552,7 @@ Colour: ffff
 EndChar
 
 StartChar: macroncmb.cap
-Encoding: 65564 -1 1564
+Encoding: 1114136 -1 1564
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -170571,7 +170570,7 @@ Colour: ffff
 EndChar
 
 StartChar: brevecmb.cap
-Encoding: 65565 -1 1565
+Encoding: 1114137 -1 1565
 Width: 0
 VWidth: 959
 GlyphClass: 4
@@ -170590,7 +170589,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0307.cap
-Encoding: 65566 -1 1566
+Encoding: 1114138 -1 1566
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -170608,7 +170607,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0308.cap
-Encoding: 65567 -1 1567
+Encoding: 1114139 -1 1567
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -170626,7 +170625,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni030A.cap
-Encoding: 65568 -1 1568
+Encoding: 1114140 -1 1568
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -170644,7 +170643,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni030B.cap
-Encoding: 65569 -1 1569
+Encoding: 1114141 -1 1569
 Width: 0
 VWidth: 959
 GlyphClass: 4
@@ -170663,7 +170662,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni030C.cap
-Encoding: 65570 -1 1570
+Encoding: 1114142 -1 1570
 Width: 0
 VWidth: 959
 GlyphClass: 4
@@ -170682,7 +170681,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni030F.cap
-Encoding: 65571 -1 1571
+Encoding: 1114143 -1 1571
 Width: 0
 VWidth: 959
 GlyphClass: 4
@@ -170701,7 +170700,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0311.cap
-Encoding: 65572 -1 1572
+Encoding: 1114144 -1 1572
 Width: 0
 VWidth: 959
 GlyphClass: 4
@@ -170720,7 +170719,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0327.cap
-Encoding: 65573 -1 1573
+Encoding: 1114145 -1 1573
 Width: 0
 VWidth: 959
 GlyphClass: 4
@@ -170738,7 +170737,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0328.cap
-Encoding: 65574 -1 1574
+Encoding: 1114146 -1 1574
 Width: 0
 VWidth: 959
 GlyphClass: 4
@@ -170754,7 +170753,7 @@ Colour: ffff
 EndChar
 
 StartChar: dieresis_gravecomb.cap
-Encoding: 65575 -1 1575
+Encoding: 1114147 -1 1575
 Width: 440
 Flags: W
 HStem: 770 104<51.5153 136.485 303.515 388.485>
@@ -170891,7 +170890,7 @@ EndSplineSet
 EndChar
 
 StartChar: dieresis_acutecomb.cap
-Encoding: 65576 -1 1576
+Encoding: 1114148 -1 1576
 Width: 440
 Flags: W
 HStem: 770 104<51.5153 136.485 303.515 388.485>
@@ -171028,7 +171027,7 @@ EndSplineSet
 EndChar
 
 StartChar: macron_gravecomb.cap
-Encoding: 65577 -1 1577
+Encoding: 1114149 -1 1577
 Width: 440
 Flags: W
 HStem: 762 52<72 368>
@@ -171116,7 +171115,7 @@ EndSplineSet
 EndChar
 
 StartChar: macron_acutecomb.cap
-Encoding: 65578 -1 1578
+Encoding: 1114150 -1 1578
 Width: 440
 Flags: W
 HStem: 762 52<72 368>
@@ -171204,7 +171203,7 @@ EndSplineSet
 EndChar
 
 StartChar: macron_brevecmb.cap
-Encoding: 65579 -1 1579
+Encoding: 1114151 -1 1579
 Width: 440
 Flags: W
 HStem: 762 52<72 368> 826 52<133.818 306.182>
@@ -171303,7 +171302,7 @@ EndSplineSet
 EndChar
 
 StartChar: macron_uni0308.cap
-Encoding: 65580 -1 1580
+Encoding: 1114152 -1 1580
 Width: 440
 Flags: W
 HStem: 762 52<72 368> 848 104<67.5153 152.485 287.515 372.485>
@@ -171437,7 +171436,7 @@ EndSplineSet
 EndChar
 
 StartChar: acute_uni0307.cap
-Encoding: 65581 -1 1581
+Encoding: 1114153 -1 1581
 Width: 440
 VWidth: 959
 Flags: W
@@ -171535,7 +171534,7 @@ EndSplineSet
 EndChar
 
 StartChar: caron_uni0307.cap
-Encoding: 65582 -1 1582
+Encoding: 1114154 -1 1582
 Width: 440
 VWidth: 959
 Flags: W
@@ -171649,7 +171648,7 @@ EndSplineSet
 EndChar
 
 StartChar: breve_gravecomb.cap
-Encoding: 65583 -1 1583
+Encoding: 1114155 -1 1583
 Width: 440
 Flags: W
 HStem: 754 52<137.148 302.852>
@@ -171741,7 +171740,7 @@ EndSplineSet
 EndChar
 
 StartChar: breve_acutecomb.cap
-Encoding: 65584 -1 1584
+Encoding: 1114156 -1 1584
 Width: 440
 Flags: W
 HStem: 754 52<137.148 302.852>
@@ -171833,7 +171832,7 @@ EndSplineSet
 EndChar
 
 StartChar: ring_acutecomb.cap
-Encoding: 65585 -1 1585
+Encoding: 1114157 -1 1585
 Width: 440
 VWidth: 1039
 Flags: W
@@ -171964,7 +171963,7 @@ EndSplineSet
 EndChar
 
 StartChar: tilde_acutecomb.cap
-Encoding: 65586 -1 1586
+Encoding: 1114158 -1 1586
 Width: 440
 Flags: W
 HStem: 754 48<184.707 352.167> 778 48<87.8335 255.293>
@@ -172070,7 +172069,7 @@ EndSplineSet
 EndChar
 
 StartChar: tilde_uni0308.cap
-Encoding: 65587 -1 1587
+Encoding: 1114159 -1 1587
 Width: 440
 Flags: W
 HStem: 754 48<184.707 352.167> 778 48<87.8335 255.293> 848 104<67.5153 152.485 287.515 372.485>
@@ -172252,7 +172251,7 @@ EndSplineSet
 EndChar
 
 StartChar: acutecomb_uni0307.cap
-Encoding: 65588 -1 1588
+Encoding: 1114160 -1 1588
 Width: 0
 VWidth: 959
 GlyphClass: 4
@@ -172270,7 +172269,7 @@ Colour: ffff
 EndChar
 
 StartChar: tildecomb_acutecomb.cap
-Encoding: 65589 -1 1589
+Encoding: 1114161 -1 1589
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -172287,7 +172286,7 @@ Colour: ffff
 EndChar
 
 StartChar: tildecomb_uni0308.cap
-Encoding: 65590 -1 1590
+Encoding: 1114162 -1 1590
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -172304,7 +172303,7 @@ Colour: ffff
 EndChar
 
 StartChar: macroncmb_gravecomb.cap
-Encoding: 65591 -1 1591
+Encoding: 1114163 -1 1591
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -172321,7 +172320,7 @@ Colour: ffff
 EndChar
 
 StartChar: macroncmb_acutecomb.cap
-Encoding: 65592 -1 1592
+Encoding: 1114164 -1 1592
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -172338,7 +172337,7 @@ Colour: ffff
 EndChar
 
 StartChar: macroncmb_brevecmb.cap
-Encoding: 65593 -1 1593
+Encoding: 1114165 -1 1593
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -172355,7 +172354,7 @@ Colour: ffff
 EndChar
 
 StartChar: macroncmb_uni0308.cap
-Encoding: 65594 -1 1594
+Encoding: 1114166 -1 1594
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -172372,7 +172371,7 @@ Colour: ffff
 EndChar
 
 StartChar: brevecmb_gravecomb.cap
-Encoding: 65595 -1 1595
+Encoding: 1114167 -1 1595
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -172389,7 +172388,7 @@ Colour: ffff
 EndChar
 
 StartChar: brevecmb_acutecomb.cap
-Encoding: 65596 -1 1596
+Encoding: 1114168 -1 1596
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -172406,7 +172405,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0308_gravecomb.cap
-Encoding: 65597 -1 1597
+Encoding: 1114169 -1 1597
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -172423,7 +172422,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0308_acutecomb.cap
-Encoding: 65598 -1 1598
+Encoding: 1114170 -1 1598
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -172440,7 +172439,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni030A_acutecomb.cap
-Encoding: 65599 -1 1599
+Encoding: 1114171 -1 1599
 Width: 0
 VWidth: 1039
 GlyphClass: 4
@@ -172458,7 +172457,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni030C_uni0307.cap
-Encoding: 65600 -1 1600
+Encoding: 1114172 -1 1600
 Width: 0
 VWidth: 959
 GlyphClass: 4
@@ -172476,7 +172475,7 @@ Colour: ffff
 EndChar
 
 StartChar: afii10053.csl
-Encoding: 65601 -1 1601
+Encoding: 1114173 -1 1601
 Width: 698
 Flags: W
 HStem: -18 32<312.226 422.939> 158 32<432 480 617.074 670> 375 74<340.206 470.5> 522 32<432 480 617.074 670> 698 32<312.226 422.939>
@@ -172687,7 +172686,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10017.csl
-Encoding: 65602 -1 1602
+Encoding: 1114174 -1 1602
 Width: 774
 VWidth: 1039
 Flags: W
@@ -172977,7 +172976,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10022.csl
-Encoding: 65603 -1 1603
+Encoding: 1114175 -1 1603
 Width: 698
 Flags: W
 HStem: -18 32<312.226 422.939> 158 32<432 480 617.074 670> 291 96<444.5 535> 361 96<315.5 419.5> 522 32<432 480 617.074 670> 698 32<312.226 422.939>
@@ -173217,7 +173216,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10043.csl
-Encoding: 65604 -1 1604
+Encoding: 1114176 -1 1604
 Width: 1132
 VWidth: 1039
 Flags: W
@@ -173566,7 +173565,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10065.csl
-Encoding: 65605 -1 1605
+Encoding: 1114177 -1 1605
 Width: 520
 VWidth: 1039
 Flags: W
@@ -173845,7 +173844,7 @@ Position2: "Enclosed Cyrillic Letters-1" dx=362 dy=0 dh=692 dv=0
 EndChar
 
 StartChar: afii10070.csl
-Encoding: 65606 -1 1606
+Encoding: 1114178 -1 1606
 Width: 410
 Flags: W
 HStem: -12 84<196.751 297.215> 390 96<144.701 227.992>
@@ -174062,7 +174061,7 @@ Position2: "Enclosed Cyrillic Letters-1" dx=402 dy=0 dh=802 dv=0
 EndChar
 
 StartChar: afii10091.csl
-Encoding: 65607 -1 1607
+Encoding: 1114179 -1 1607
 Width: 800
 Flags: W
 HStem: -168 21G<377 423> 0 24<40 93.8047 210.195 341.805 458.195 589.805 706.195 760> 450 24<40 93.8047 210.195 258 294 341.805 458.195 506 542 589.805 706.195 760>
@@ -174413,7 +174412,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10101.csl
-Encoding: 65608 -1 1608
+Encoding: 1114180 -1 1608
 Width: 460
 VWidth: 0
 Flags: W
@@ -174604,7 +174603,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10103.csl
-Encoding: 65609 -1 1609
+Encoding: 1114181 -1 1609
 Width: 304
 Flags: W
 HStem: 0 24<40 93.8047 210.195 264> 450 24<40 93.8047 210.195 264>
@@ -174729,7 +174728,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10147.csl
-Encoding: 65610 -1 1610
+Encoding: 1114182 -1 1610
 Width: 1032
 VWidth: 1039
 Flags: W
@@ -174982,7 +174981,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10195.csl
-Encoding: 65611 -1 1611
+Encoding: 1114183 -1 1611
 Width: 724
 Flags: W
 HStem: -12 24<331.735 392.265> 228 28<121.071 164 292 432 560 602.929> 462 24<331.64 392.36>
@@ -175220,7 +175219,7 @@ Position2: "Enclosed Cyrillic Letters-1" dx=244 dy=0 dh=488 dv=0
 EndChar
 
 StartChar: brevecmb.cyrcap
-Encoding: 65612 -1 1612
+Encoding: 1114184 -1 1612
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -175238,7 +175237,7 @@ Colour: ffff
 EndChar
 
 StartChar: brevecmb.cyrl
-Encoding: 65613 -1 1613
+Encoding: 1114185 -1 1613
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -175256,7 +175255,7 @@ Colour: ffff
 EndChar
 
 StartChar: zero.dnom
-Encoding: 65614 -1 1614
+Encoding: 1114186 -1 1614
 Width: 388
 VWidth: 784
 Flags: W
@@ -175271,7 +175270,7 @@ Colour: ffff
 EndChar
 
 StartChar: one.dnom
-Encoding: 65615 -1 1615
+Encoding: 1114187 -1 1615
 Width: 388
 VWidth: 1080
 Flags: W
@@ -175286,7 +175285,7 @@ Colour: ffff
 EndChar
 
 StartChar: two.dnom
-Encoding: 65616 -1 1616
+Encoding: 1114188 -1 1616
 Width: 388
 VWidth: 770
 Flags: W
@@ -175301,7 +175300,7 @@ Colour: ffff
 EndChar
 
 StartChar: three.dnom
-Encoding: 65617 -1 1617
+Encoding: 1114189 -1 1617
 Width: 388
 Flags: W
 HStem: -12 24<118.816 208.6> 209 28<107 211.14> 414 24<133.89 209.531>
@@ -175315,7 +175314,7 @@ Colour: ffff
 EndChar
 
 StartChar: four.dnom
-Encoding: 65618 -1 1618
+Encoding: 1114190 -1 1618
 Width: 388
 Flags: W
 HStem: 0 24<98 177.805 286.195 346> 118 28<68 178 286 356> 406 20<198.953 286>
@@ -175330,7 +175329,7 @@ Colour: ffff
 EndChar
 
 StartChar: five.dnom
-Encoding: 65619 -1 1619
+Encoding: 1114191 -1 1619
 Width: 388
 VWidth: 1080
 Flags: W
@@ -175345,7 +175344,7 @@ Colour: ffff
 EndChar
 
 StartChar: six.dnom
-Encoding: 65620 -1 1620
+Encoding: 1114192 -1 1620
 Width: 388
 VWidth: 784
 Flags: W
@@ -175360,7 +175359,7 @@ Colour: ffff
 EndChar
 
 StartChar: seven.dnom
-Encoding: 65621 -1 1621
+Encoding: 1114193 -1 1621
 Width: 388
 VWidth: 781
 Flags: W
@@ -175376,7 +175375,7 @@ Colour: ffff
 EndChar
 
 StartChar: eight.dnom
-Encoding: 65622 -1 1622
+Encoding: 1114194 -1 1622
 Width: 388
 VWidth: 784
 Flags: W
@@ -175392,7 +175391,7 @@ Colour: ffff
 EndChar
 
 StartChar: nine.dnom
-Encoding: 65623 -1 1623
+Encoding: 1114195 -1 1623
 Width: 388
 VWidth: 784
 Flags: W
@@ -175407,7 +175406,7 @@ Colour: ffff
 EndChar
 
 StartChar: iogonek.dotless
-Encoding: 65624 -1 1624
+Encoding: 1114196 -1 1624
 Width: 296
 GlyphClass: 2
 Flags: W
@@ -175594,7 +175593,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2215.frac
-Encoding: 65625 -1 1625
+Encoding: 1114197 -1 1625
 Width: 84
 Flags: W
 HStem: -18 21<-200 -138.396> 710 20<222.396 284>
@@ -175608,7 +175607,7 @@ Colour: ffff
 EndChar
 
 StartChar: gravecomb.grek
-Encoding: 65626 -1 1626
+Encoding: 1114198 -1 1626
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -175626,7 +175625,7 @@ Colour: ffff
 EndChar
 
 StartChar: acutecomb.grek
-Encoding: 65627 -1 1627
+Encoding: 1114199 -1 1627
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -175644,7 +175643,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0313.grek
-Encoding: 65628 -1 1628
+Encoding: 1114200 -1 1628
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -175662,7 +175661,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0314.grek
-Encoding: 65629 -1 1629
+Encoding: 1114201 -1 1629
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -175680,7 +175679,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0308_gravecomb.grek
-Encoding: 65630 -1 1630
+Encoding: 1114202 -1 1630
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -175699,7 +175698,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0308_uni0342.grek
-Encoding: 65631 -1 1631
+Encoding: 1114203 -1 1631
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -175718,7 +175717,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0313_gravecomb.grek
-Encoding: 65632 -1 1632
+Encoding: 1114204 -1 1632
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -175741,7 +175740,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0313_acutecomb.grek
-Encoding: 65633 -1 1633
+Encoding: 1114205 -1 1633
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -175764,7 +175763,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0313_uni0342.grek
-Encoding: 65634 -1 1634
+Encoding: 1114206 -1 1634
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -175785,7 +175784,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0314_gravecomb.grek
-Encoding: 65635 -1 1635
+Encoding: 1114207 -1 1635
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -175808,7 +175807,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0314_acutecomb.grek
-Encoding: 65636 -1 1636
+Encoding: 1114208 -1 1636
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -175831,7 +175830,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0314_uni0342.grek
-Encoding: 65637 -1 1637
+Encoding: 1114209 -1 1637
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -175852,7 +175851,7 @@ Colour: ffff
 EndChar
 
 StartChar: dieresis.i
-Encoding: 65638 -1 1638
+Encoding: 1114210 -1 1638
 Width: 440
 Flags: W
 HStem: 558 120<91.7454 184.255 255.746 348.256>
@@ -175963,7 +175962,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0308.i
-Encoding: 65639 -1 1639
+Encoding: 1114211 -1 1639
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -175981,7 +175980,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0308_gravecomb.i
-Encoding: 65640 -1 1640
+Encoding: 1114212 -1 1640
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -176001,7 +176000,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0308_acutecomb.i
-Encoding: 65641 -1 1641
+Encoding: 1114213 -1 1641
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -176021,7 +176020,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0342.iota
-Encoding: 65642 -1 1642
+Encoding: 1114214 -1 1642
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -176038,7 +176037,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni1FC0.iota
-Encoding: 65643 -1 1643
+Encoding: 1114215 -1 1643
 Width: 440
 Flags: W
 HStem: 555 72<240.144 331.078> 600 72<108.922 199.856>
@@ -176171,7 +176170,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni1FCF.iota
-Encoding: 65644 -1 1644
+Encoding: 1114216 -1 1644
 Width: 260
 Flags: W
 HStem: 634 96<60.9158 142.485> 755 56<151.779 251.645> 800 56<12.3554 112.221>
@@ -176419,7 +176418,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni1FDF.iota
-Encoding: 65645 -1 1645
+Encoding: 1114217 -1 1645
 Width: 260
 Flags: W
 HStem: 634 96<71.515 153.084> 755 56<151.779 251.645> 800 56<12.3554 112.221>
@@ -176675,7 +176674,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0313_uni0342.iota
-Encoding: 65646 -1 1646
+Encoding: 1114218 -1 1646
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -176695,7 +176694,7 @@ Colour: ffff
 EndChar
 
 StartChar: uni0314_uni0342.iota
-Encoding: 65647 -1 1647
+Encoding: 1114219 -1 1647
 Width: 0
 GlyphClass: 4
 Flags: W
@@ -176715,7 +176714,7 @@ Colour: ffff
 EndChar
 
 StartChar: afii10066.low
-Encoding: 65648 -1 1648
+Encoding: 1114220 -1 1648
 Width: 486
 Flags: W
 HStem: 0 24<40 93.8047 210.195 296.946> 234 24<210 296.946> 450 24<40 93.8047 211.115 303.32>
@@ -176928,7 +176927,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10194.low
-Encoding: 65649 -1 1649
+Encoding: 1114221 -1 1649
 Width: 584
 Flags: W
 HStem: 0 24<138 191.805 308.195 394.946> 234 24<308 394.946> 396 24<115.794 189.101 310.899 400.683> 450 24<138 191.805 308.154 360>
@@ -177217,7 +177216,7 @@ EndSplineSet
 EndChar
 
 StartChar: uniA64B.low
-Encoding: 65650 -1 1650
+Encoding: 1114222 -1 1650
 Width: 498
 Flags: W
 HStem: -12 24<201.7 303.663>
@@ -177496,7 +177495,7 @@ EndSplineSet
 EndChar
 
 StartChar: theta.mgrk
-Encoding: 65651 -1 1651
+Encoding: 1114223 -1 1651
 Width: 466
 Flags: W
 HStem: -12 122<179.939 256.95> 369 29<123 352> 598 122<207.697 292.307>
@@ -177662,7 +177661,7 @@ EndSplineSet
 EndChar
 
 StartChar: kappa.mgrk
-Encoding: 65652 -1 1652
+Encoding: 1114224 -1 1652
 Width: 632
 Flags: W
 HStem: -12 122<417.766 531.631> 402 84<95.1928 191.5 448.709 558.556>
@@ -177899,7 +177898,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10026.ss15
-Encoding: 65653 -1 1653
+Encoding: 1114225 -1 1653
 Width: 824
 VWidth: 1039
 Flags: W
@@ -177917,7 +177916,7 @@ Colour: ffff
 EndChar
 
 StartChar: afii10031.ss15
-Encoding: 65654 -1 1654
+Encoding: 1114226 -1 1654
 Width: 824
 VWidth: 1039
 Flags: W
@@ -178192,7 +178191,7 @@ EndSplineSet
 EndChar
 
 StartChar: afii10074.ss15
-Encoding: 65655 -1 1655
+Encoding: 1114227 -1 1655
 Width: 566
 Flags: W
 HStem: 0 24<40 93.8047 210.195 258 308 355.805 472.195 526> 234 28<210 356> 450 24<40 93.8047 210.195 258 308 355.805 472.195 526>
@@ -178209,7 +178208,7 @@ Colour: ffff
 EndChar
 
 StartChar: afii10079.ss15
-Encoding: 65656 -1 1656
+Encoding: 1114228 -1 1656
 Width: 572
 Flags: W
 HStem: 0 24<40 93.8047 210.195 258 314 361.805 478.195 532> 450 24<40 93.8047 210.195 258 314 361.805 478.195 532>
@@ -178495,6 +178494,34 @@ Refer: 143 208 N 1 0 0 1 0 0 2
 Layer: 2
 Refer: 143 208 N 1 0 0 1 0 0 2
 Colour: ffff
+EndChar
+
+StartChar: uni02B9
+Encoding: 697 697 1658
+Width: 240
+VWidth: 0
+Flags: W
+HStem: 498 242
+VStem: 38 174
+LayerCount: 3
+Fore
+Refer: 474 884 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 474 884 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni02BA
+Encoding: 698 698 1659
+Width: 440
+VWidth: 0
+Flags: W
+HStem: 524 188
+VStem: 126 306
+LayerCount: 3
+Fore
+Refer: 412 733 N 1 0 0 1 0 0 2
+Layer: 2
+Refer: 412 733 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
